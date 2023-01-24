@@ -25,7 +25,7 @@
 # Installation
 
  ```
- git clone https://github.com/mohamedabdelhady933/MyRecon.git
+ git clone https://github.com/abd0hrz/my-recon-tool.git
  ```
  # Usage
  
